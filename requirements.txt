@@ -1,0 +1,12 @@
+﻿1). conda activate stockpp
+
+2). pip install pystan
+
+
+3). conda install -c conda-forge fbprophet
+
+4). pip install tensorflow
+
+6). pip install -U scikit-learn
+
+5). pip install numpy pandas matplotlib yfinance streamlit plotly
